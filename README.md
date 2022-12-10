@@ -1,5 +1,5 @@
 # Unicesumar Scraper
-## Script para baixar livros
+![](example.gif)
 
 
 #### Para obter os tokens abra a aba Network do DevTools na requisição
